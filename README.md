@@ -44,5 +44,5 @@ Access Control Lists (ACLs): Extended ACLs were implemented on edge routers. The
 Connectivity Testing: Verified via Ping Tests (confirming end-to-end reachability) and Email Simulations (confirming application-layer success).
 6. Conclusion
 This project successfully simulates a robust and modern network for an educational organization. By utilizing professional-grade configurations like VLANs, OSPF, and ACLs, the network provides a secure environment for school data while ensuring all five campuses remain connected. The system is reliable, scalable, and meets all technical requirements for a professional school management infrastructure.
-
+<img width="865" height="647" alt="image" src="https://github.com/user-attachments/assets/49386bb0-142e-4585-a7df-185442f9f11f" />
 
